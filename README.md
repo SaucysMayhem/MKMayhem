@@ -1,3 +1,35 @@
+# Mario Kart Mayhem
+
+Will be listed at a later date.
+
+## Licensing
+
+The majority of the source code here is licensed under the MIT License.
+
+Including [**mkw-sp**](https://github.com/mkw-sp/mkw-sp) ported features such as (see LICENSE_mkw-sp for more information):
+
+- Input Viewer
+
+
+However, **certain features are licensed under the AGPLv3** (GNU Affero General Public License v3). If you plan to use these features, the following conditions apply:
+
+- You are allowed to use, distribute, modify, and use the features privately, but must comply with these requirements:
+    - Disclose the source code of your project
+    - Include the license and display a copyright notice
+    - ~~Apply the same license to your project~~
+        - We **will not enforce a specific license for your project**. You are free to choose any license, as long as all other requirements are met.
+    - Specify the changes made to the original feature
+
+Beware that **Network use is distribution**, it means that Users who interact with the licensed material via network are given the right to receive a copy of the source code.
+
+The following features are licensed under AGPLv3:
+
+- Room kick page and feature implementation
+- UI changes, feature implementation, and all code associated
+
+**NOTE:** You can ask to be fully exempted from these licensing constraints, feel free to contact the code author(s)
+
+
 # Pulsar
 
 Pulsar is a Mario Kart Wii Kamek-Based engine to create CT distributions. It comes with its own [software](../main/PulsarPackCreator/Executable) to aid in building custom distributions, and multiple quality of life features:
